@@ -19,15 +19,14 @@ html {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: auto;
-    height: 500px;
-    width: auto;
+    max-height: 500px;
+    margin: auto;
 }
 
 .center_image {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    height: 50px;
-    width: auto;
+    max-height: 50px;
+    margin: auto;
   }
